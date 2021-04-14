@@ -1,45 +1,52 @@
-<img src="https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png" style="margin: 0;">
+# True Foxes - The Website 
 
-Welcome USER_NAME,
+deployed version of the site here 
 
-This is the Code Institute student template for Gitpod. We have preinstalled all of the tools you need to get started. You can safely delete this README.md file, or change it for your own project. Please do read it at least once, though! It contains some important information about Gitpod and the extensions we use.
+image screenshot of site here 
 
-## Gitpod Reminders
+So some friends of mine have been asking me for a while to build them a new band website. They had been using services like 
+Wix and GoDaddy GUI's beforehand and were not satisfied with the results because they felt limited in what they could achieve 
+and didn't feel like it gave their website individuality. So when they learned I was studying Software Development with Code 
+Institute they came knocking on my door for help to create a new internet home. With this being my first ever time creating a 
+website for a band, we decided to have a meeting and talk about what the site would need and what they may like to add into it 
+in future updates/releases of the site. 
 
-To run a frontend (HTML, CSS, Javascript only) application in Gitpod, in the terminal, type:
+## Meeting Notes for Site Development 
 
-`python3 -m http.server`
 
-A blue button should appear to click: *Make Public*,
+## The Boilerplate 
 
-Another blue button should appear to click: *Open Browser*.
+So to do this I decided to start with a basic bootstrap theme made by [W3 Schools](https://www.w3schools.com/bootstrap/bootstrap_theme_band.asp) for bands and use this as an initial boilerplate
+to re-structure and re-style before building new content into the site.
 
-To run a backend Python file, type `python3 app.py`, if your Python file is named `app.py` of course.
+## Design 
+**Images**:  
 
-A blue button should appear to click: *Make Public*,
+**Typography**:  
 
-Another blue button should appear to click: *Open Browser*.
+**Colour Scheme**:  
 
-In Gitpod you have superuser security privileges by default. Therefore you do not need to use the `sudo` (superuser do) command in the bash terminal in any of the lessons.
 
-## Updates Since The Instructional Video
+# Testing 
+To make sure that all testing is done thoroughly and throughout the development of the website, I have created a seperate document 
+for all the testing carried out on this site. 
 
-We continually tweak and adjust this template to help give you the best experience. Here is the version history:
+To read more about the testing of the [True Foxes Website]() you can [click here]() to read the testing.md file.
 
-**October 21 2020:** Versions of the HTMLHint, Prettier, Bootstrap4 CDN and Auto Close extensions updated. The Python extension needs to stay the same version for now.
+# Deployment 
 
-**October 08 2020:** Additional large Gitpod files (`core.mongo*` and `core.python*`) are now hidden in the Explorer, and have been added to the `.gitignore` by default.
+# Credits 
 
-**September 22 2020:** Gitpod occasionally creates large `core.Microsoft` files. These are now hidden in the Explorer. A `.gitignore` file has been created to make sure these files will not be committed, along with other common files.
+## Code 
+- [W3 Schools - Band Template](https://www.w3schools.com/bootstrap/bootstrap_theme_band.asp)  
+This Bootstrap Template was used as an initial Boilerplate to speed up the design process of the website. The majority of code has 
+been edited or replaced- This has just been used predominantly as a starting point for constructing a unique new band website.
+- [W3 Schools - Back to the top button]()  
+This code was used as the base for creating my 'back to the top button'.
 
-**April 16 2020:** The template now automatically installs MySQL instead of relying on the Gitpod MySQL image. The message about a Python linter not being installed has been dealt with, and the set-up files are now hidden in the Gitpod file explorer.
+## Media 
+All of the media used on this site is the property of True Foxes and has been used with their consent. All Social Media accounts 
+connected that display media are owned/managed by True Foxes.
 
-**April 13 2020:** Added the _Prettier_ code beautifier extension instead of the code formatter built-in to Gitpod.
-
-**February 2020:** The initialisation files now _do not_ auto-delete. They will remain in your project. You can safely ignore them. They just make sure that your workspace is configured correctly each time you open it. It will also prevent the Gitpod configuration popup from appearing.
-
-**December 2019:** Added Eventyret's Bootstrap 4 extension. Type `!bscdn` in a HTML file to add the Bootstrap boilerplate. Check out the <a href="https://github.com/Eventyret/vscode-bcdn" target="_blank">README.md file at the official repo</a> for more options.
-
---------
-
-Happy coding!
+## Content 
+All of the content on this site has been written by myself or the members of True Foxes to be used on their website. 
