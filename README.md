@@ -25,6 +25,13 @@ to re-structure and re-style before building new content into the site.
 **Typography**:  
 
 **Colour Scheme**:  
+Before starting the project I already knew that the main colours that would be used were the colours of the fox! The bands logo 
+already incorporates these colours- so it was an obvious choice. Now because I was lacking the natural ability to choose colours 
+that blend well together i decided to use a colour palette generator. The generator i used is called Coolors, you can 
+[click here](https://coolors.co/586ba4-324376-f5dd90-f68e5f-f76c5e) to see the colour palette.
+
+As well as the 5 colours generated, I also used an offshade of white #fafafa to add a crisp finish to the style of the site.
+
 
 
 # Testing 
@@ -43,6 +50,7 @@ This Bootstrap Template was used as an initial Boilerplate to speed up the desig
 been edited or replaced- This has just been used predominantly as a starting point for constructing a unique new band website.
 - [W3 Schools - Back to the top button]()  
 This code was used as the base for creating my 'back to the top button'.
+
 
 ## Media 
 All of the media used on this site is the property of True Foxes and has been used with their consent. All Social Media accounts 
